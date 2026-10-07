@@ -120,4 +120,5 @@ python -m src.app
 Откройте http://127.0.0.1:7860 — увидите диалоговое окно слева и панель
 менеджера справа.
 
-## Видео демонстрация - https://drive.google.com/file/d/128NRyRiDBPENzqAL1FzO8947LlsaMake/view?usp=drive_link
+## Видео демонстрация
+https://drive.google.com/file/d/128NRyRiDBPENzqAL1FzO8947LlsaMake/view?usp=drive_link
